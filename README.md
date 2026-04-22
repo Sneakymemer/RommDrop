@@ -21,6 +21,7 @@ Place the "roms" folder found in RommDrop_current in your RetroBat Base Folder, 
 The application requires a config.json file located in the .RommDrop directory. Edit this file with your server details:
 
 JSON
+
 {
     "romm_url": "https:// or http://yourserver:6969",
     "username": "YourUsername",
